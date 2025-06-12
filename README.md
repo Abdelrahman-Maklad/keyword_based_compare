@@ -4,8 +4,8 @@ A collection of tools for automated document processing and analysis.
 
 ## Tools Included
 
-1. Magic_1.10.py - Main document processing tool
-2. Magic_Special_0.0.py - Specialized processing for specific document types
+1. Magic.py - Main document processing tool
+2. Magic_Special.py - Specialized processing for specific document types
 
 ## Features
 
@@ -43,8 +43,7 @@ python Magic_1.10.py
 ```
 
 3. Results will be saved in:
-   - TRK_output.txt for tracking information
-   - BWC_output.xlsx for detailed results
+   - VC_output.xlsx for detailed results
 
 ## Configuration
 
