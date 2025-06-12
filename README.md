@@ -39,7 +39,7 @@ pip install pandas openpyxl pymupdf
 
 2. Run the tool:
 ```bash
-python Magic_1.10.py
+python Magic.py
 ```
 
 3. Results will be saved in:
